@@ -16,8 +16,8 @@
 
 definition(
     name: "Home Assistant Connect",
-    namespace: "gurase",
-    author: "Grace Mann",
+    namespace: "gabrielpetry",
+    author: "Gabriel Petry",
     description: "Connect your Home Assistant devices to SmartThings.",
     category: "My Apps",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
